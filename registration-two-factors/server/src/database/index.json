@@ -1,0 +1,14 @@
+{
+  "usuarios": [
+    {
+      "email": "yagosonicmassaroni@gmail.com",
+      "senha": "123456",
+      "secret": "IE7DWPYMI43UOPLE"
+    },
+    {
+      "email": "banana@gmail.com",
+      "senha": "123456",
+      "secret": "DQKDAWYOIZRQGDIG"
+    }
+  ]
+}
